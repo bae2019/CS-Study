@@ -1,6 +1,6 @@
 # 2024.01.02. 전송 계층
 
-![roulette result]()
+![roulette result](unnamed.png)
 
 ## 질문 → 답변
 
